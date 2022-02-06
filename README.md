@@ -1,3 +1,3 @@
 # Serverinfo Script
 
-Script to deisplay server info in HTML.
+Script to display server info in HTML.
